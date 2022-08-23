@@ -7,6 +7,7 @@ fun main()
     var y='R'
     println("$y")
     var a="Mann"
+
     println("$a")
     var b=true
     println("$b")
