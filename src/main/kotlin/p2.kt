@@ -7,6 +7,7 @@ fun main() {
     var d: Int = c.toInt()
     println("$d")
 
+
     var e: String = "44"
     var f: Double = e.toDouble()
     println("$f")
